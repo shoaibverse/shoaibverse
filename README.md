@@ -38,12 +38,6 @@ A place where I showcase my projects, skills, and progress as a Computer Science
 
 🔗 [Visit my portfolio](https://my-portfolio-qfym.onrender.com)
 
-## 📊 GitHub Stats
-
-![Shoaib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shoaibverse&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibverse&layout=compact&theme=tokyonight)
-
 ## 📫 Let's Connect
 
 - 📧 Email: shoaibfarooq1076@gmail.com
