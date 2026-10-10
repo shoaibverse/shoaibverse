@@ -6,7 +6,7 @@
 
 Building practical software, one project at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-my--portfolio--qfym.onrender.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://my-portfolio-qfym.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shoaibfarooq--portfolio.onrender.com-111827?style=flat-square&logo=googlechrome&logoColor=white)](https://shoaibfarooq-portfolio.onrender.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shoaib_Farooq-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaib-farooq-825b273ab)
 [![Email](https://img.shields.io/badge/Email-shoaibfarooq1076%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shoaibfarooq1076@gmail.com)
 
@@ -82,7 +82,7 @@ A Python application that generates images using AI, built around a simple and c
 
 ### [Personal Portfolio](https://github.com/shoaibverse/shoaib-portfolio)
 **Developer portfolio website.**
-A modern portfolio showcasing my projects, skills, and progress. Live at [my-portfolio-qfym.onrender.com](https://my-portfolio-qfym.onrender.com).
+A modern portfolio showcasing my projects, skills, and progress. Live at [shoaibfarooq-portfolio.onrender.com](https://shoaibfarooq-portfolio.onrender.com).
 
 `TypeScript` `Web`
 
@@ -119,7 +119,7 @@ More work is available on my [repositories page](https://github.com/shoaibverse?
 |---|---|
 | **Email** | [shoaibfarooq1076@gmail.com](mailto:shoaibfarooq1076@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/shoaib-farooq-825b273ab](https://www.linkedin.com/in/shoaib-farooq-825b273ab) |
-| **Portfolio** | [my-portfolio-qfym.onrender.com](https://my-portfolio-qfym.onrender.com) |
+| **Portfolio** | [shoaibfarooq-portfolio.onrender.com](https://shoaibfarooq-portfolio.onrender.com) |
 | **GitHub** | [github.com/shoaibverse](https://github.com/shoaibverse) |
 
 <div align="center">
